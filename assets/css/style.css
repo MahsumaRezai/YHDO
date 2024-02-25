@@ -50,6 +50,9 @@ a:hover {
 .paralax-mf {
   box-shadow: 0 13px 8px -10px rgba(0, 0, 0, 0.1);
 }
+.work-box {
+  height: 500px;
+}
 
 .typed {
   color: red;
@@ -1504,4 +1507,7 @@ footer .credits a {
 .center {
   font-weight: bold;
   font-size: 18px;
+}
+.art {
+  height: 500px
 }
