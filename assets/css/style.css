@@ -1488,6 +1488,7 @@ footer .credits a {
   padding: 12px 20px 12px 40px; /* Add some padding */
   border: 1px solid #ddd; /* Add a grey border */
   margin-bottom: 12px; /* Add some space below the input */
+  box-shadow: 5px 5px 5px 5px gainsboro
 
 }
 
@@ -1511,6 +1512,7 @@ footer .credits a {
   font-size: 18px; /* Increase the font-size */
   color: black; /* Add a black text color */
   display: block; /* Make it into a block element to fill the whole list */
+  box-shadow: 5px 5px 5px 5px gainsboro
 }
 
 #myUL li a:hover:not(.header) {
